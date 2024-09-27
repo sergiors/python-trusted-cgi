@@ -1,0 +1,10 @@
+{
+  "name": "Python Function",
+  "description": "",
+  "run": ["./venv/bin/python3", "app.py"],
+  "output_headers": {
+    "Content-Type": "application/json"
+  },
+  "time_limit": "1s",
+  "maximum_payload": 8192
+}
